@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Advent.of.Code.2017.Runner</AssemblyName>
+    <RootNamespace>Advent_of_Code.Runner</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Git\C-Sharp\Advent-of-Code-2017\Day1-InverseCaptcha\Day1-InverseCaptcha.csproj" />
+  </ItemGroup>
+
+</Project>
